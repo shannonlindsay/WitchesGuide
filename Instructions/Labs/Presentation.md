@@ -4,6 +4,6 @@ lab:
     module: 'Presentation'
 ---
 
-# Presentation Link
+# Presentation Link 🪄
 
-Please find the [slides](https://4lbi-my.sharepoint.com/:b:/p/shannon/ERgcZXzeToZPgRPjygYxb7IBpkI9m20pfl4mYJQCG_xSug?e=yo7EY3) from today's presentation. Let me know if you have any questions!
+Please find the [slides](https://4lbi-my.sharepoint.com/...) from today's presentation. Let us know if you have any questions!
