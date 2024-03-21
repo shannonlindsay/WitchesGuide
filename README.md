@@ -1,27 +1,17 @@
-# INF99X: Sample Course
+# The Witch’s Guide to Model Management and Data Visualization
 
-**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
+**[Microsoft Fabric Community Conference 2024](https://fabricconf.com/)**
 
-## What are we doing?
+# The Witch’s Guide to Model Management and Data Visualization
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Microsoft services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs (Microsoft Certified Trainer) to keep the content current with product changes.
+This is a public repository, containing materials used for the 2023 Fabric Community Conference.
 
-- We hope this brings a sense of collaboration to the labs like we have never had before - when a Microsoft service such as Azure or Microsoft 365 changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
+## Session overview
 
-## How should I use this repository??
+Join us for a bewitching workshop on model management and data visualization with Power BI reporting. You'll learn how to use both inbuilt and third party tools to create efficient data models. You'll also discover how to enhance your visuals and reports with accessibility, design, and storytelling. As a part of this workshop, you'll practice your skills in interactive labs and get live feedback. At the end of the day, you'll be able to cast your own spells with data and create stunning reports!
 
-- The instructor materials are your primary source for teaching the course content.
+## Prerequisites
 
-- These files on GitHub are designed to be used in the course labs, which use the hosted lab environment.
+This is a hands-on workshop. Please bring your enchanted laptops, already adorned with Power BI Desktop, and channel your inner sorcery. To ensure our potions brew harmoniously, it’s advisable to possess experience akin to what’s revealed in the sacred scrolls of the Dashboard in a Day workshop. This means you’ve connected to data, made changes using Power Query, created calculations using DAX, and created visuals.
 
-- It is recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Microsoft cloud services and get the latest files for their delivery.
-
-## What about changes to the student handbook?
-
-- We will review the student handbook on a quarterly basis and update through the normal MOC (Microsoft Official Curriculum) release channels as needed.
-
-## How do I contribute?
-
-- Any MCT (Microsoft Certified Trainer) can submit a pull request to the code or content in the GitHub repro. Microsoft and the course author will then triage and include content and lab code changes as needed.
-
-- You can submit bugs, changes, improvement, and ideas. Find a new Azure or Microsoft 365 feature before we have? Submit a new demo!
+Please ensure you have the following programs installed on your computer: Power BI Desktop, DAX Studio, and Tabular Editor.
