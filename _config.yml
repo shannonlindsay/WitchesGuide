@@ -4,9 +4,9 @@ exclude:
   - .github/
 header_pages:
   - index.html
-author: Microsoft Learning
-twitter_username: mslearning
-github_username:  MicrosoftLearning
+author: Shannon Lindsay and Stephanie Bruno
+twitter_username: shan_gsd, stephtbruno
+github_username:  shannonlindsay
 plugins:
   - jekyll-sitemap
   - jekyll-mentions
