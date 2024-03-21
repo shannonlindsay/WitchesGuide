@@ -10,7 +10,7 @@ lab:
 
 Each Wednesday a challenges are released and participants are asked to replicate the challenge that is posed as closely as possible. We'll provide you with either a solution file or a guided video.
 
-Use Workout Wednesday to **practice data visualization**, **build your portfolio**, or **assign to your students**!
+Use Workout Wednesday to **practice data visualization**, **build your portfolio**, or **work through with colleagues**!
 
 <img width="1031" alt="Screenshot of the workout Wednesday interface." src="https://github.com/shannonlindsay/ISCAP-Power-BI/assets/77289548/db56a6fa-2856-4b2a-96a8-cf798358eae1">
 
