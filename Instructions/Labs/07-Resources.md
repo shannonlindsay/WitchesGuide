@@ -18,6 +18,6 @@ If you're looking for specific learning modules, use the search function on the 
 ## Other resources
 
 | Topic  | Resource | Description |
-|----------|----------| -------------------------|
-Dataviz samples | Financial Times visual vocabulary in Power BI
-|  SQLJason's recreation of the Financial Times visuals in Power BI, great for inspiration and to see how to do things
+|----------|----------| ------------------------------------|
+Dataviz samples | [Financial Times visual vocabulary in Power BI](https://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html) |  SQLJason's recreation of the Financial Times visuals in Power BI, great for inspiration and to see how to do thing. Note that this is from 2018, so there may be newer ways to implement some of these visuals ||
+| Deneb samples | [Deneb resources and samples](https://deneb-viz.github.io/community/resources) |  A curated list of resources (specifically) for using Deneb.  ||
