@@ -8,7 +8,7 @@ lab:
 
 # Lab 1 - Create efficient data models
 
-> This lab is sourced from [Microsoft Learn](https://learn.microsoft.com/training/modules/design-model-power-bi/8-lab)
+> This lab is sourced from [Microsoft Learn](https://learn.microsoft.com/training/modules/design-model-power-bi/)
 
 ## **Lab story**
 
