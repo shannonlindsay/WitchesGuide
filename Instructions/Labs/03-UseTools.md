@@ -21,8 +21,6 @@ In this exercise, you learn how to use:
 
 This lab takes approximately **30** minutes to complete.
 
-> **Note**: You need a [Microsoft Fabric trial](https://learn.microsoft.com/fabric/get-started/fabric-trial) to complete this exercise.
-
 ## Get started
 
 For this lab you'll install and use Tabular Editor, and DAX Studio to optimize a semantic model.
