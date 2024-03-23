@@ -34,13 +34,13 @@ In this task, you'll set up the environment for the lab.
 
     *Tip: By default, the Getting Started dialog box opens in front of Power BI Desktop. You can choose to sign-in, and then close the pop-up.*
 
-1. To open the starter Power BI Desktop file, select the **File > Open Report > Browse Reports**.
+2. To open the starter Power BI Desktop file, select the **File > Open Report > Browse Reports**.
 
-1. Navigate to the **D:\Allfiles\Labs\03-configure-data-model-in-power-bi-desktop\Starter** folder and select the **Sales Analysis** file.
+3. Navigate to the **D:\Allfiles\Labs\03-configure-data-model-in-power-bi-desktop\Starter** folder and select the **Sales Analysis** file.
 
-1. Close any informational windows that may open.
+4. Close any informational windows that may open.
 
-1. Go to **File > Save As** and save the file to the **D:\Allfiles\MySolution** folder.
+5. Go to **File > Save As** and save the file to the **D:\Allfiles\MySolution** folder.
 
 ## **Create model relationships**
 
