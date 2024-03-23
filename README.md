@@ -21,20 +21,20 @@ Please ensure you have the following programs installed on your computer: Power 
 ## Agenda
 
 9am: Welcome
-- Intro to modeling
-- Creating Efficient Data Models
-- Lab 1
+- Data modeling in Power BI
+- Create efficient data models
+  - Lab 1
 - Break
-- Third-Party Tools for Advanced Modeling
-- Lab 2
+- Use tools for advanced modeling and optimization
+  - Lab 2 (use VM if needed)
   
 12pm: Lunch
 
-- Data Viz Best Practices (incl. accessibliity)
-- Enhancing visuals and reports
-- Lab 3
+- Dataviz best practices
+- Enhance visuals and reports
+  - Lab 3
 - Break
-- Next level visuals 
-- Lab 4
+- Next level visuals
+  - Lab 4
   
 3:45pm: Wrap-up/Conclusion
