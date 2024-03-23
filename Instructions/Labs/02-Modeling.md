@@ -4,8 +4,7 @@ lab:
     module: 'Create efficient data models'
 ---
 
-![alt text](image-1.png)
-
+![Illustration of a witch in a bathtub.](Linked_image_Files/image-1.png)
 
 # Lab 1 - Create efficient data models
 
