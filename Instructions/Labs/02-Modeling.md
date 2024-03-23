@@ -9,12 +9,11 @@ lab:
 
 # Lab 1 - Create efficient data models
 
-
-# Design a Data Model in Power BI
+> This lab is sourced from [Microsoft Learn](https://learn.microsoft.com/training/modules/design-model-power-bi/8-lab)
 
 ## **Lab story**
 
-In this lab, you'll commence developing the data model. It will involve creating relationships between tables, and then configuring table and column properties to improve the friendliness and usability of the data model. You'll also create hierarchies and create quick measures.
+In this lab, you'll develop a data model. This includes creating relationships between tables, and then configuring table and column properties to improve the friendliness and usability of the data model. You'll also create hierarchies and create quick measures.
 
 In this lab you learn how to:
 
