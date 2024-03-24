@@ -12,7 +12,7 @@ lab:
 
 > This lab is sourced from [Microsoft Learn](https://learn.microsoft.com/training/modules/use-tools-optimize-power-bi-performance/)
 
-In this lab, you will learn how to use two external tools to help you develop, manage, and optimize data models and DAX queries.
+In this lab, yo'll learn how to use two external tools to help you develop, manage, and optimize data models and DAX queries.
 
 In this exercise, you learn how to use:
 
