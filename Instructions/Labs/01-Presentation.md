@@ -6,6 +6,6 @@ lab:
 
 # Presentation Link 🪄
 
-Please find the [slides](https://4lbi-my.sharepoint.com/...) from today's presentation. Let us know if you have any questions!
+Please find the [slides](https://4lbi-my.sharepoint.com/:b:/p/shannon/Eb3tNTRa6H5KlCHcOhxFjbEBzBbPg42HZ8l6pI3GJSpurg?e=lEp1FG) from today's presentation. Let us know if you have any questions!
 
 ![Screenshot of the opening slide of the presentation, titled Microsoft Fabric Community Conference.](https://github.com/shannonlindsay/WitchesGuide/assets/77289548/70351c93-8223-4c66-b6f7-be18aa6a053f)
