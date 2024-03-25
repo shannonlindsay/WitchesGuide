@@ -24,5 +24,7 @@ Dataviz samples | [Financial Times visual vocabulary in Power BI](https://sqljas
 Storytelling | [Storytelling with data](https://www.storytellingwithdata.com/) |  Cole Nussbaumer Knaflic's website, where she shares tips and tricks for telling stories with data.
 Data modeling 101 | [Intro to Data Modeling](https://www.sqlbi.com/articles/session-introduction-to-data-modeling/) | SQLBI's introduction to data modeling, which is a great starting point for understanding how to model data in Power BI.
 Data model optimization | [Optimization Guide for Power BI](https://learn.microsoft.com//power-bi/guidance/power-bi-optimization) | Microsoft's guide to optimizing your data model in Power BI.
+Date tables in Power Query | Matt Allington's M Date Table [https://exceleratorbi.com.au/build-reusable-calendar-table-power-query/ | Shannon's favorite date table syntax using M]
+Date tables using DAX | [SQLBI's Date Table](https://www.sqlbi.com/articles/creating-a-simple-date-table-in-dax/) | SQLBI's guide to creating a date table using DAX.
 
 We'll continue to add resources to this list according to your requests! If you have a specific topic you'd like to learn more about, please let us know.
