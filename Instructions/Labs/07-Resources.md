@@ -19,7 +19,8 @@ If you're looking for specific learning modules, use the search function on the 
 
 | Topic  | Resource | Description |
 |----------|----------| ------------------------------------|
-Dataviz samples | [Financial Times visual vocabulary in Power BI](https://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html) |  SQLJason's recreation of the Financial Times visuals in Power BI, great for inspiration and to see how to do thing. Note that this is from 2018, so there may be newer ways to implement some of these visuals ||
+Dataviz samples | [Financial Times visual vocabulary in Power BI](https://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html) |  SQLJason's recreation of the Financial Times visuals in Power BI, great for inspiration and to see how to do thing. Note that this is from 2018, so there may be newer ways to implement some of these visuals |
+Accessibility | [Adobe Color Wheel](https://color.adobe.com/create/color-accessibilityl) |  A tool to help you create accessible color palettes and shows you what your colors look like to someone with color vision deficiency.  ||
 | Deneb samples | [Deneb resources and samples](https://deneb-viz.github.io/community/resources) |  A curated list of resources (specifically) for using Deneb.  ||
 Storytelling | [Storytelling with data](https://www.storytellingwithdata.com/) |  Cole Nussbaumer Knaflic's website, where she shares tips and tricks for telling stories with data.
 Data modeling 101 | [Intro to Data Modeling](https://www.sqlbi.com/articles/session-introduction-to-data-modeling/) | SQLBI's introduction to data modeling, which is a great starting point for understanding how to model data in Power BI.
