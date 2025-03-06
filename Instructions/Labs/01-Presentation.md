@@ -6,6 +6,7 @@ lab:
 
 # Presentation Link 🪄
 
-Please find the [slides](https://4lbi-my.sharepoint.com/:b:/p/shannon/Eb3tNTRa6H5KlCHcOhxFjbEBzBbPg42HZ8l6pI3GJSpurg?e=lEp1FG) from today's presentation. Let us know if you have any questions!
+Please find the [slides](https://4lbi.sharepoint.com/:b:/s/filesfromYQ/EY1nl3Ydt3FMs9e-7oRV95ABkvzb4ik_s1qh7o9YlPhjiQ?e=nneIGN) from today's presentation. Let us know if you have any questions!
 
-![Screenshot of the opening slide of the presentation, titled Microsoft Fabric Community Conference.](https://github.com/shannonlindsay/WitchesGuide/assets/77289548/70351c93-8223-4c66-b6f7-be18aa6a053f)
+![Screenshot of the opening slide of the presentation, titled SQL Sat ATL AI & BI.]![image](https://github.com/user-attachments/assets/698fac5a-8c11-42a4-adcd-2860bbb1e45a)
+
