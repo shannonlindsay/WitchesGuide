@@ -1,7 +1,5 @@
 # The Witch’s Guide to Model Management and Data Visualization
 
-**[Microsoft Fabric Community Conference 2024](https://fabricconf.com/)**
-
 This is a public repository, containing materials used for the 2023 Fabric Community Conference.
 
 ## Workshop overview
