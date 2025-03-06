@@ -1,6 +1,6 @@
 # The Witch’s Guide to Model Management and Data Visualization
 
-This is a public repository, containing materials used for the 2023 Fabric Community Conference.
+This is a public repository, containing materials used for SQL Sat ATL AI & BI 2025. Thanks to our attendees and sponsors.
 
 ## Workshop overview
 
